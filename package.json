@@ -1,0 +1,18 @@
+{
+  "name": "vintage",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "An experienment on creating responsive website without modern framework",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0"
+  }
+}
